@@ -16,7 +16,7 @@
 <h3 align="center">Weather App</h3>
 
   <p align="center">
-    project_description
+    Simple app that consumes a public AQI api
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
